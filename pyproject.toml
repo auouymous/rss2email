@@ -10,7 +10,7 @@ python = "^3.6"
 feedparser = ">=6.0.5"
 html2text = ">=2020.1.16"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 update-copyright = ">=0.6.2"
 
 [build-system]
