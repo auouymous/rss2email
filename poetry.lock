@@ -2,14 +2,14 @@
 
 [[package]]
 name = "feedparser"
-version = "6.0.5"
+version = "6.0.11"
 description = "Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds"
 optional = false
 python-versions = ">=3.6"
 groups = ["main"]
 files = [
-    {file = "feedparser-6.0.5-py3-none-any.whl", hash = "sha256:f4dfcc94bb85fd44bb27089f696cdd225d6c10b3ab25a9ddaa8257b692b6a224"},
-    {file = "feedparser-6.0.5.tar.gz", hash = "sha256:cae320004d904a12e33b1b10bd63766bc2823eec94e03b802fbb228d820838d9"},
+    {file = "feedparser-6.0.11-py3-none-any.whl", hash = "sha256:0be7ee7b395572b19ebeb1d6aafb0028dee11169f1c934e0ed67d54992f4ad45"},
+    {file = "feedparser-6.0.11.tar.gz", hash = "sha256:c9d0407b64c6f2a065d0ebb292c2b35c01050cc0dc33757461aaabdc4c4184d5"},
 ]
 
 [package.dependencies]
